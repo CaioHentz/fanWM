@@ -1,2 +1,4 @@
-# fanWM
-Warehouse Management Software coded in Java
+# Warehouse Management Software
+Stock control in warehouse level!
+
+Coded in Java
